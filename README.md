@@ -2,7 +2,7 @@
 
 Lint options used in my projects.
 
-##
+## Usage
 
 Include this project in your `pubspec.yaml` file:
 
